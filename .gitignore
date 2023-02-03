@@ -1,0 +1,9 @@
+.project
+.pydevproject
+__pycache__
+.pyc
+corpusbuilder/*.pyc
+venv
+.idea
+/corpus-download
+/corpus-extract

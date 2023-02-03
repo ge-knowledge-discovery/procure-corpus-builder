@@ -1,0 +1,83 @@
+{
+    "pmc_id": "PMC7493720",
+    "metadata": {
+        "license": "CC BY",
+        "article_title": "The association between biomarkers and clinical outcomes in novel coronavirus pneumonia in a US cohort",
+        "provenance": {
+            "source_nxml_file": "tests/corpus-download/PMC7493720/bmm-2020-0309.nxml",
+            "authors": [
+                {
+                    "surname": "Ayanian",
+                    "given_names": "Shant"
+                },
+                {
+                    "surname": "Reyes",
+                    "given_names": "Juan"
+                },
+                {
+                    "surname": "Lynn",
+                    "given_names": "Lei"
+                },
+                {
+                    "surname": "Teufel",
+                    "given_names": "Karolyn"
+                }
+            ],
+            "publisher": {
+                "journal_name": "Biomarkers in Medicine",
+                "publisher_name": "Future Medicine Ltd",
+                "publisher_location": "London, UK"
+            },
+            "publication_date": {
+                 "day": 17,
+                "month": 7,
+                "year": 2020
+            },
+            "funding_group": ""
+        }
+    },
+    "html_tables": [
+        {
+            "id": "Table 1",
+            "table_html": "<table frame=\"hsides\" rules=\"groups\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th align=\"left\">Variable studied</th><th align=\"left\">Median</th><th align=\"left\">Standard deviation</th><th align=\"left\">Number of patients with available results</th></tr></thead><tbody valign=\"top\"><tr><td align=\"left\">IL-6 (normal range 0.0\u201315.5 pg/ml)<xref ref-type=\"table-fn\" rid=\"T1TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">65 pg/ml</td><td align=\"left\">446.6 pg/ml</td><td align=\"left\">222</td></tr><tr><td align=\"left\">D-dimer (normal range 0.20\u20130.28 \u03bcg/ml)</td><td align=\"left\">2.1 \u03bcg/ml</td><td align=\"left\">4.7 \u03bcg/ml</td><td align=\"left\">248</td></tr><tr><td align=\"left\">Ferritin (normal range 20\u2013450 ng/ml)</td><td align=\"left\">446 ng/ml</td><td align=\"left\">1822 ng/ml</td><td align=\"left\">252</td></tr><tr><td align=\"left\">CRP (normal range 0.0\u20139.0 mg/l)</td><td align=\"left\">90 mg/l</td><td align=\"left\">132.9 mg/l</td><td align=\"left\">241</td></tr><tr><td align=\"left\">LDH (normal range 600\u2013800 units/l)</td><td align=\"left\">974 units/l</td><td align=\"left\">954.2 units/l</td><td align=\"left\">254</td></tr></tbody></table>",
+            "table_caption": "<caption><title>Biomarkers studied with key characteristics.</title></caption>",
+            "table_footer": "<table-wrap-foot><fn id=\"T1TFN1\"><label><sup>\u2020</sup></label><p>IL-6 performed at LabCorp, NC, USA. All other labs performed at the George Washington University Hospital.</p></fn></table-wrap-foot>",
+            "table_image": "",
+            "references": []
+        },
+        {
+            "id": "Table 2",
+            "table_html": "<table frame=\"hsides\" rules=\"groups\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th align=\"left\">Characteristics</th><th align=\"left\">Prevalence</th><th align=\"left\">ICU admission</th><th align=\"left\">Intubation</th><th align=\"left\">Death</th></tr></thead><tbody valign=\"top\"><tr><td align=\"left\">Sex = M</td><td align=\"left\">54%</td><td align=\"left\">2.6 (1.4, 4.6)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">2.4 (1.1, 5.0)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">1.4 (1.0, 2.2)</td></tr><tr><td align=\"left\">BMI &gt; 30</td><td align=\"left\">29%</td><td align=\"left\">1.2 (0.7, 2.4)</td><td align=\"left\">1.3 (0.6, 2.9)</td><td align=\"left\">0.6 (0.3, 1.4)</td></tr><tr><td align=\"left\">Hypertension</td><td align=\"left\">68%</td><td align=\"left\">2.4 (1.2, 4.5)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">2.8 (1.1, 7.0)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">2.8 (1.4, 5.5)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">Diabetes</td><td align=\"left\">46%</td><td align=\"left\">1.3 (0.8, 2.2)</td><td align=\"left\">1.7 (0.8, 3.2)</td><td align=\"left\">1.2 (0.7, 2.1)</td></tr><tr><td align=\"left\">Cardiac disease</td><td align=\"left\">46%</td><td align=\"left\">1.9 (1.8, 3.3)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">2.0 (1.0, 4.2)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">3.6 (2.0, 6.3)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">CVA</td><td align=\"left\">17%</td><td align=\"left\">1.9 (1.3, 3.0)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">3.2 (1.6, 6.4)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">4.5(2.5, 8.0)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">COPD</td><td align=\"left\">29%</td><td align=\"left\">1.2 (0.7, 2.2)</td><td align=\"left\">1.3 (0.7, 2.8)</td><td align=\"left\">1.7 (1, 3)</td></tr><tr><td align=\"left\">CKD</td><td align=\"left\">29%</td><td align=\"left\">1.5 (0.9, 2.7)</td><td align=\"left\">0.9 (0.4, 1.9)</td><td align=\"left\">2.3 (1.4, 4.0)<xref ref-type=\"table-fn\" rid=\"T2TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">HIV</td><td align=\"left\">4%</td><td align=\"left\">NA</td><td align=\"left\">NA</td><td align=\"left\">0.27 (0, 2)</td></tr><tr><td align=\"left\">Cancer</td><td align=\"left\">6%</td><td align=\"left\">1.6 (0.5, 4.6)</td><td align=\"left\">0.9 (0.1, 3.3)</td><td align=\"left\">1.5 (0.5, 4.4)</td></tr></tbody></table>",
+            "table_caption": "<caption><title>Comorbidities and outcomes, odds ratios.</title></caption>",
+            "table_footer": "<table-wrap-foot><fn id=\"T2TFN1\"><label><sup>\u2020</sup></label><p>indicates statistical significance at a p-value of 0.05.</p></fn><fn><p>COPD: Chronic obstructive pulmonary disease; CKD: Chronic kidney disease; CVA: Cerebrovascular disease; HIV: Human immunodeficiency virus; ICU: Intensive care unit; M: Male.</p></fn></table-wrap-foot>",
+            "table_image": "",
+            "references": []
+        },
+        {
+            "id": "Table 3",
+            "table_html": "<table frame=\"hsides\" rules=\"groups\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th align=\"left\">Biomarker</th><th align=\"left\">OR for ICU admission</th><th align=\"left\">OR for intubation</th><th align=\"left\">OR for death</th></tr></thead><tbody valign=\"top\"><tr><td align=\"left\">IL-6 \u226550 pg/ml <break></break>(0.0\u201315.5 pg/ml)</td><td align=\"left\">5.9 (2.7, 13.1)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">4.6 (1.7, 12.4)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">5.4 (2.4, 11.8)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">D-dimer \u22653 \u03bcg/ml <break></break>(0.20\u20130.28 \u03bcg/ml)</td><td align=\"left\">7.3 (3.8, 14.0)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">8.2 (3.4, 19.8)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">7.5 (3.8, 14.6)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">Ferritin \u2265450 ng/ml <break></break>(20\u2013450 ng/ml)</td><td align=\"left\">6.8 (3.4, 13.7)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">4.0 (1.8, 8.8)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">5.1 (2.6, 10.0)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">CRP \u2265100\u2013mg/l <break></break>(0.0\u20139.0 mg/l)</td><td align=\"left\">8.6 (4.1, 18.1)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">6.5 (2.6, 16.3)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">6.0 (3.0, 12.0)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td></tr><tr><td align=\"left\">LDH \u22651200 <break></break>(600\u2013800 units/l)</td><td align=\"left\">4.5 (2.5, 8.1)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">5.4 (2.5, 11.8)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td><td align=\"left\">8.0 (4.1, 15.3)<xref ref-type=\"table-fn\" rid=\"T3TFN1\"><sup>\u2020</sup></xref></td></tr></tbody></table>",
+            "table_caption": "<caption><title>Odds ratios for all biomarkers with 95% confidence intervals.</title></caption>",
+            "table_footer": "<table-wrap-foot><fn id=\"T3TFN1\"><label><sup>\u2020</sup></label><p>indicates statistical significance at p-value of 0.05.</p></fn><fn><p>ICU: Intensive care unit; OR: Odds ratio.</p></fn></table-wrap-foot>",
+            "table_image": "",
+            "references": []
+        },
+        {
+            "id": "Table 4",
+            "table_html": "<table frame=\"hsides\" rules=\"groups\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th align=\"left\">Biomarker median value</th><th align=\"left\">ICU admission</th><th align=\"left\">No ICU admission</th><th align=\"left\">Intubation</th><th align=\"left\">No intubation</th><th align=\"left\">Death</th><th align=\"left\">Survival</th></tr></thead><tbody valign=\"top\"><tr><td align=\"left\">IL-6 pg/ml <break></break>(0.0\u201315.5 pg/ml)</td><td align=\"left\">188</td><td align=\"left\">50</td><td align=\"left\">266</td><td align=\"left\">60</td><td align=\"left\">188</td><td align=\"left\">50</td></tr><tr><td align=\"left\">D-dimer \u03bcg/ml <break></break>(0.20-0.28 \u03bcg/ml)</td><td align=\"left\">5.9</td><td align=\"left\">1.6</td><td align=\"left\">7.8</td><td align=\"left\">1.7</td><td align=\"left\">5.8</td><td align=\"left\">1.6</td></tr><tr><td align=\"left\">Ferritin <break></break>(20-450 ng/ml)</td><td align=\"left\">1360</td><td align=\"left\">340</td><td align=\"left\">1575</td><td align=\"left\">373</td><td align=\"left\">1320</td><td align=\"left\">356</td></tr><tr><td align=\"left\">CRP mg/l <break></break>(0.0-9.0 mg/l)</td><td align=\"left\">333</td><td align=\"left\">68</td><td align=\"left\">333.2</td><td align=\"left\">78</td><td align=\"left\">290</td><td align=\"left\">73</td></tr><tr><td align=\"left\">LDH <break></break>(600-800 units/l)</td><td align=\"left\">1478</td><td align=\"left\">870</td><td align=\"left\">2050</td><td align=\"left\">915</td><td align=\"left\">1680</td><td align=\"left\">863</td></tr></tbody></table>",
+            "table_caption": "<caption><title>Median Biomarker for each outcome.</title></caption>",
+            "table_footer": "<table-wrap-foot><fn><p>ICU: Intensive care unit.</p></fn></table-wrap-foot>",
+            "table_image": "",
+            "references": []
+        }
+    ],
+    "image_tables": [],
+    "figures": [
+        {
+            "id": "Figure 1",
+            "caption": "<caption><title>Whisker plots for different biomarkers and outcomes.</title><p>ICU: Intensive care unit.</p></caption>",
+            "graphic": "figure1",
+            "files": ["tests/corpus-download/PMC7493720/figure1.gif", "tests/corpus-download/PMC7493720/figure1.jpg"],
+            "references": []
+        }
+    ]
+}
